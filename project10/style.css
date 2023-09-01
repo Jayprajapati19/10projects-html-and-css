@@ -242,6 +242,11 @@ nav li:hover {
   font-size: 3rem;
 }
 
+.contact_way a {
+  display: flex;
+  gap: 2rem;
+}
+
 .contact_way h3 {
   font-size: 3rem;
   font-weight: bold;
